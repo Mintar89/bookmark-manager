@@ -17,4 +17,4 @@ I'd like to view my bookmarks.
 | Bookmarks                   | view_bookmarks    |
 
 
-[Domain Model](domainmodel.png)
+![Domain Model](./domainmodel.png)
