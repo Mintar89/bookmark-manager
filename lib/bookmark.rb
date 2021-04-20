@@ -3,7 +3,10 @@ class Bookmark
   attr_reader :all
 
   def self.all
-    ['Bookmark', 'Bookmark', 'Bookmark']
+    ["http://www.makersacademy.com",
+    "http://www.google.com",
+    "http://samharris.org"
+    ]
   end 
 
 end
